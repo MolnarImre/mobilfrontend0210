@@ -15,8 +15,8 @@ export default class FetchExample extends React.Component {
     alkatreszar:"",
     kompmarka:"",
     komptipus:"",
-    valaszto1:"marka",
-    valaszto2:"tipus",
+    valaszto1:"",
+    valaszto2:"",
     dataSource:[],
     dataSourcetipus:[],
     }

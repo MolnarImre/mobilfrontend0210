@@ -20,8 +20,8 @@ function HomeScreen({ navigation }) {
       />
       <View style={{height:20}}></View>
       <Button
-      onPress={()=>navigation.navigate('Tipusok')}
-      title="Megnézem a gépjármű tipusokat"
+      onPress={()=>navigation.navigate('Típusok')}
+      title="Megnézem a gépjármű típusokat"
       />
       <View style={{height:20}}></View>
       <Button
